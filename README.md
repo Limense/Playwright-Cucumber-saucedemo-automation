@@ -45,7 +45,7 @@ Asegúrate de tener instalado:
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/Playwright-Cucumber-saucedemo-automation.git
+git clone https://github.com/Limense/Playwright-Cucumber-saucedemo-automation.git
 cd Playwright-Cucumber-saucedemo-automation
 ```
 
