@@ -8,16 +8,15 @@ node_modules/
 dist/
 
 # Reportes y resultados
-reports/
 test-results/
 playwright-report/
-*.html
-*.json
+reports/*.json
+reports/*.xml
+reports/screenshots/failed/
 *.xml
 
 # Videos y screenshots
 videos/
-screenshots/
 traces/
 
 # Archivos del sistema
